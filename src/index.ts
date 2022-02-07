@@ -2,4 +2,4 @@ function hello (name: string): string {
   return `Hello, ${name}!`
 }
 
-console.log(hello('Worlds'))
+console.log(hello('World'))
